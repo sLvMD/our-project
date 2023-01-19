@@ -6,4 +6,5 @@
 - age: 32
 - Nationality: Moldovan
 - Food: Placinte
-- Added info
+
+- Edited info;
