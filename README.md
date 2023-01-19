@@ -1,9 +1,8 @@
 # our-project
 
-## Alex Bio
+## Slavian's Bio
 
-- name: Alejandro Keegan 
-- age: 30
-- Nationality: Spanish
-- Food: Paella 
-
+- name: Slavian Colodi
+- age: 32
+- Nationality: Moldovan
+- Food: Placinte
